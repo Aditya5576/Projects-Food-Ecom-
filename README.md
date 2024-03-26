@@ -12,7 +12,7 @@ Responsive Design: The website is designed to be responsive, ensuring optimal vi
 
 Usage:
 Clone or download the project files.
-Open the index.html file in a web browser to view the website.
+Open the **index.html** file in a web browser to view the website.
 Explore the available food items and their prices.
 
 Technologies Used:
