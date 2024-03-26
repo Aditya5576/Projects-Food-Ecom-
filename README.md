@@ -5,7 +5,9 @@ This project is a straightforward e-commerce website for food items. Users can v
 
 Features:
 Product Display: The website showcases a range of food items, each with its name and price.
+
 Clear Navigation: Users can easily browse through different food categories to find their desired items.
+
 Responsive Design: The website is designed to be responsive, ensuring optimal viewing experience across devices.
 
 Usage:
